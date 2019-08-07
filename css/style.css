@@ -45,7 +45,7 @@ a:hover {
 /*============== 2. typography ===================*/
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Times New Roman", Helvetica, Arial, sans-serif;
   size: 14px;
   line-height: 1.6em;
   color: #666666;
@@ -193,10 +193,12 @@ h6 {
 /* parallax */
 
 section#intro {
-  background: #000 url(../img/bg/bg1.jpg) 50% 0 no-repeat;
+  background: #000 url(../img/bg/bg1.jpg) 50% 0% no-repeat;
   color: #fff;
   max-height: 650px;
   height: auto;
+  margin-right: 0; 
+  margin-left: 0; 
   margin: 0 auto;
   padding: 0;
 }
@@ -213,7 +215,7 @@ section#intro {
   background: none;
   padding: 0;
   padding-bottom: 30px;
-  margin-top: 80px;
+  margin-top: 0px;
   text-align: center;
   color: #f0f0f0;
 }
@@ -553,8 +555,9 @@ section#bottom {
 }
 
 .bottom-cta h2 {
+  font-family: "Times New Roman", Times, serif;
   font-weight: 350;
-  font-size: 15px;
+  font-size: 20px;
   text-shadow: 1px 1px 2px #262626;
   color: #ececec;
   margin: 25px 0 0;
@@ -616,9 +619,9 @@ section#bottom {
   margin-bottom: 15px;
 }
 
-#sendmessage.show, #errormessage.show, .show {
+/*#sendmessage.show, #errormessage.show, .show {
   display: block;
-}
+}*/
 
 .validation {
   color: red;
@@ -679,17 +682,6 @@ ul.contact-info li label {
 
 /*============== 9. Footer ===================*/
 
-.footer {
-  background: #000;
-  opacity: 0.9;
-  padding: 40px 0 30px;
-}
-
-.subfooter {
-  text-align: center;
-  font-size: 12px;
-}
-
 p.copyright {
   color: #dedede;
   margin-bottom: 0;
@@ -723,33 +715,26 @@ p.copyright {
   background: url(../img/twitter.png) no-repeat;
 }
 
-.copy {
-  clear: both;
-  text-align: center;
-  margin-top: 20px;
-  color: #678C99;
-}
-
-.copy p span {
-  font-size: 18px;
-  font-family: 'Oleo Script', cursive;
-}
-
-.copy p {
-  font-size: 14px;
-  font-family: 'Lato', sans-serif;
-}
-
-.copy a {
-  margin: 0 0 0 10px;
-  color: #262a2f;
-}
 
 .credits {
   text-align: center;
   font-size: 12px;
   color: #d5d5d5;
 }
+.table {
+
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 12px;
+  color: #d5d5d5;
+}
+th{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  color: #d5d5d5;
+}
+
+  
 
 /*============== 9. Custom queries ===================*/
 
