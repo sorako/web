@@ -722,15 +722,15 @@ p.copyright {
   color: #d5d5d5;
 }
 .table {
-
+margin-left: 200px; width: 620px; margin-top: 50px;
   font-family: "Times New Roman", Times, serif;
   text-align: center;
-  font-size: 12px;
+  font-size: 14px;
   color: #d5d5d5;
 }
 th{
   font-family: "Times New Roman", Times, serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #d5d5d5;
 }
 
