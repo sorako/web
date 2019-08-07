@@ -4,7 +4,9 @@
   Author: BootstrapMade.com
   Author URL: https://bootstrapmade.com
 */
+ @import url('https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,900');
 
+@import url(css/owl.carousel.css);
 /*================= 1. Reset =============== */
 
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, img, small, strong, ol, ul, li, form, label, table, caption, tr, td, footer, header {
@@ -14,6 +16,7 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+   line-height: 1.80857;
 }
 
 footer, header, menu, nav, section {
@@ -191,6 +194,27 @@ h6 {
 /*============== 5. Intro section ===================*/
 
 /* parallax */
+.section {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    padding: 120px 0;
+}
+.section.lb {
+    background-color: #f2f3f5;
+}
+.section-title {
+    display: block;
+    position: relative;
+    margin-bottom: 60px;
+}
+
+.section.lb .service-dit h3{
+  padding: 12px 0px;
+}
+.service-dit{
+  padding: 20px 15px;
+}
 
 section#intro {
   background: #000 url(../img/bg/bg1.jpg) 50% 0% no-repeat;
@@ -288,6 +312,11 @@ section#intro {
 }
 
 /* Portolio */
+hr.hr1 {
+    position: relative;
+    margin: 60px 0;
+    border: 1px dashed #f2f3f5;
+}
 
 h2.title {
   text-align: center;
@@ -733,7 +762,34 @@ th{
   font-size: 16px;
   color: #d5d5d5;
 }
+.dmtop {
+    background-color: red;
+    z-index: 100;
+    width: 50px;
+    height: 50px;
+    line-height: 47px;
+    position: fixed;
+    bottom: -100px;
+    border-radius: 3px;
+    right: 20px;
+    text-align: center;
+    font-size: 28px;
+    color: #ffffff !important;
+    cursor: pointer;
+    -webkit-transition: all .7s ease-in-out;
+    -moz-transition: all .7s ease-in-out;
+    -o-transition: all .7s ease-in-out;
+    -ms-transition: all .7s ease-in-out;
+    transition: all .7s ease-in-out;
+}
 
+.global-radius {
+    
+    border-radius: 25px 25px 25px 25px;
+}
+.dmtop.show {
+    bottom: 20px;
+}
   
 
 /*============== 9. Custom queries ===================*/
