@@ -828,7 +828,7 @@ td.tds{
 
 .global-radius {
     
-    border-radius: 0px 0px 0px 0px;
+    border-radius: 25px 0px 25px 0px;
 }
 .dmtop.show {
     bottom: 20px;
