@@ -8,6 +8,7 @@
 
 @import url(css/owl.carousel.css);
 @import url(css/prettyPhoto.css);
+@import url(css/font-awesome.min.css);
 /*================= 1. Reset =============== */
 
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, img, small, strong, ol, ul, li, form, label, table, caption, tr, td, footer, header {
@@ -478,7 +479,8 @@ span.zoom {
 }
 
 .hoverbutton {
-    background-color: #fd6802;
+    background: #000 url(../img/picsize.png) 50% 0% no-repeat;
+    transition: 1s ease;
     position: absolute;
     color: #ffffff !important;
     top: 48%;
@@ -487,10 +489,9 @@ span.zoom {
     left: 0;
     opacity: 0;
     right: 0;
-    width: 50px;
-    height: 50px;
-    line-height: 50px;
-    text-align: center;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
     margin: -20px auto;
 }
 
@@ -585,10 +586,18 @@ span.zoom {
 .nav-pills > li > a,
 .global-radius,
 .btn-brd {
-    -webkit-border-radius: 25px 0px 25px 0px;
-    -moz-border-radius: 25px 0px 25px 0px;
-    border-radius: 25px 0px 25px 0px;
+    border-radius: 25px 25px 25px 25px;
 }
+
+/* Zurag Tomruulj harah*/
+.post-media {
+    position: relative;
+}
+
+.post-media img {
+    width: 100%;
+}
+
 
 /*============== 7. Section bottom ===================*/
 
@@ -796,14 +805,14 @@ p.copyright {
 }
 th.ths{
   border-width: 2px;
-  border-color: #8BAFCA  ;
+  border-color: #2E586D;
   font-size: 14px;
-  color: #d5d5d5;
+  color: #BFBFBF;
 }
 td.tds{
-  border-color: #62798A  ;
+  border-color: #224556;
   font-size: 13px;
-  color: #d5d5d5;
+  color: #BFBFBF;
 }
 .dmtop {
     background-color: #2D8ED6;
@@ -826,10 +835,9 @@ td.tds{
     transition: all .7s ease-in-out;
 }
 
-.global-radius {
-    
+/*.global-radius { 
     border-radius: 25px 0px 25px 0px;
-}
+}*/
 .dmtop.show {
     bottom: 20px;
 }
