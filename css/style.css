@@ -763,7 +763,7 @@ th{
   color: #d5d5d5;
 }
 .dmtop {
-    background-color: red;
+    background-color: #2D8ED6;
     z-index: 100;
     width: 50px;
     height: 50px;
@@ -785,7 +785,7 @@ th{
 
 .global-radius {
     
-    border-radius: 25px 25px 25px 25px;
+    border-radius: 0px 0px 0px 0px;
 }
 .dmtop.show {
     bottom: 20px;
