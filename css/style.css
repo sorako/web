@@ -7,6 +7,7 @@
  @import url('https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,900');
 
 @import url(css/owl.carousel.css);
+@import url(css/prettyPhoto.css);
 /*================= 1. Reset =============== */
 
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, img, small, strong, ol, ul, li, form, label, table, caption, tr, td, footer, header {
@@ -471,6 +472,32 @@ span.zoom {
 
 /* buttons */
 
+/* zurag tomruulah */
+.post-media {
+    position: relative;
+}
+
+.hoverbutton {
+    background-color: #fd6802;
+    position: absolute;
+    color: #ffffff !important;
+    top: 48%;
+    font-size: 21px;
+    z-index: 12;
+    left: 0;
+    opacity: 0;
+    right: 0;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    margin: -20px auto;
+}
+
+.service-widget:hover .hoverbutton {
+    opacity: 1;
+}
+
 .cta {
   margin: 0 auto;
   margin-top: 30px;
@@ -551,6 +578,16 @@ span.zoom {
   background: #e65841;
   border-color: #c92c14;
   color: #fff;
+}
+
+.nav-pills,
+.effect-1:after,
+.nav-pills > li > a,
+.global-radius,
+.btn-brd {
+    -webkit-border-radius: 25px 0px 25px 0px;
+    -moz-border-radius: 25px 0px 25px 0px;
+    border-radius: 25px 0px 25px 0px;
 }
 
 /*============== 7. Section bottom ===================*/
@@ -751,15 +788,21 @@ p.copyright {
   color: #d5d5d5;
 }
 .table {
-margin-left: 200px; width: 620px; margin-top: 40px;
-  font-family: "Times New Roman", Times, serif;
+  margin-left: 200px; width: 500px; margin-top: 30px;
+  font-family: 'Kosugi', sans-serif;
   text-align: center;
   font-size: 14px;
   color: #d5d5d5;
 }
-th{
-  font-family: "Times New Roman", Times, serif;
-  font-size: 16px;
+th.ths{
+  border-width: 2px;
+  border-color: #8BAFCA  ;
+  font-size: 14px;
+  color: #d5d5d5;
+}
+td.tds{
+  border-color: #62798A  ;
+  font-size: 13px;
   color: #d5d5d5;
 }
 .dmtop {
