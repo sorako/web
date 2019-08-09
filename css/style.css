@@ -793,7 +793,7 @@ p.copyright {
   color: #d5d5d5;
 }
 
-th.ths{
+/*th.ths{
   border-width: 2px;
   border-color: #2E586D;
   font-size: 14px;
@@ -803,7 +803,7 @@ td.tds{
   border-color: #224556;
   font-size: 13px;
   color: #BFBFBF;
-}
+}*/
 .dmtop {
     background-color: #2D8ED6;
     z-index: 100;
