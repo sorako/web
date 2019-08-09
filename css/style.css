@@ -832,7 +832,7 @@ td.tds{
 
 /*============== 9. Custom queries ===================*/
 
-@media(min-width: 768px) and (max-width: 979px) {
+/*@media(min-width: 768px) and (max-width: 979px) {
   .wrapper {
     width: 735px;
     margin: 0 auto;
@@ -915,3 +915,4 @@ td.tds{
     margin-bottom: 20px;
   }
 }
+*/
