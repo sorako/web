@@ -711,7 +711,7 @@ section#bottom {
 /* --- comment form ---- */
 
 .contactForm {
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .contactForm input[type="text"] {
@@ -798,24 +798,6 @@ p.copyright {
   font-size: 12px;
   color: #d5d5d5;
 }
-/*.table {
-  margin-left: 200px; width: 500px; margin-top: 30px;
-  font-family: 'Kosugi', sans-serif;
-  text-align: center;
-  font-size: 14px;
-  color: #d5d5d5;
-}
-th.ths{
-  border-width: 2px;
-  border-color: #2E586D;
-  font-size: 14px;
-  color: #BFBFBF;
-}
-td.tds{
-  border-color: #224556;
-  font-size: 13px;
-  color: #BFBFBF;
-}*/
 .dmtop {
     background-color: #2D8ED6;
     z-index: 100;
@@ -925,4 +907,5 @@ td.tds{
   ul.portfolio_list li {
     margin-bottom: 20px;
   }
+
 }
