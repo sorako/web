@@ -1978,8 +1978,8 @@ table {
 }
 
 .table {
-  width: 100%;
-  text-align: center;
+  width: 50%;
+  margin-left: 200px;
   margin-top: 30px;
   font-family: 'Kosugi', sans-serif;
   margin-bottom: 20px;

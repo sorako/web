@@ -652,8 +652,6 @@ section#bottom {
   padding: 30px 0;
 }
 
-
-
 .contactForm input[type="text"] {
   width: 100%;
   min-height: 40px;
@@ -695,10 +693,6 @@ section#bottom {
   font-weight: 600;
   margin-bottom: 15px;
 }
-
-/*#sendmessage.show, #errormessage.show, .show {
-  display: block;
-}*/
 
 .validation {
   color: red;
@@ -831,9 +825,6 @@ td.tds{
     transition: all .7s ease-in-out;
 }
 
-/*.global-radius { 
-    border-radius: 25px 0px 25px 0px;
-}*/
 .dmtop.show {
     bottom: 20px;
 }
@@ -855,7 +846,7 @@ td.tds{
   }
 
   .table{
-    width: 735px;
+    width: 560px;
   }
 }
 
@@ -878,9 +869,6 @@ td.tds{
 @media(max-width:480px) {
   .main-content {
     height: 340px;
-  }
-  .table{
-    margin-left: 200px;
   }
   .features {
     padding: 30px 0 0;
