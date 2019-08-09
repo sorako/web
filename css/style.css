@@ -798,7 +798,7 @@ p.copyright {
   font-size: 12px;
   color: #d5d5d5;
 }
-.table {
+/*.table {
   margin-left: 200px; width: 500px; margin-top: 30px;
   font-family: 'Kosugi', sans-serif;
   text-align: center;
@@ -815,7 +815,7 @@ td.tds{
   border-color: #224556;
   font-size: 13px;
   color: #BFBFBF;
-}
+}*/
 .dmtop {
     background-color: #2D8ED6;
     z-index: 100;
@@ -858,10 +858,6 @@ td.tds{
   }
   h1.title {
     font-size: 35px;
-  }
-
-  .table{
-    width: 735px;
   }
 }
 
