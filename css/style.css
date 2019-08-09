@@ -854,12 +854,15 @@ td.tds{
   .wrapper {
     width: 480px;
     margin: 0 auto;
+    margin-top: 0px;
   }
   
   ul.portfolio_list li {
+    margin-top: 0px;
     margin-bottom: 20px;
   }
   .testimonial {
+    margin-top: 0px;
     margin-bottom: 20px;
   }
 }
