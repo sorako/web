@@ -775,29 +775,6 @@ p.copyright {
   height: 30px;
 }
 
-.fb {
-  float: left;
-  width: 75px;
-  height: 24px;
-  margin-right: 10px;
-  display: block;
-  background: url(../img/facebook.png) no-repeat;
-}
-
-.tw {
-  float: left;
-  width: 75px;
-  height: 24px;
-  display: block;
-  background: url(../img/twitter.png) no-repeat;
-}
-
-
-.credits {
-  text-align: center;
-  font-size: 12px;
-  color: #d5d5d5;
-}
 .dmtop {
     background-color: #2D8ED6;
     z-index: 100;
@@ -895,7 +872,7 @@ p.copyright {
     float: none;
     width: 100%;
     margin: 0 auto;
-    margin-top: 10px;
+    margin-top: 0px;
     margin-left: 50px;
   }
   .featured {
