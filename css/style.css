@@ -711,7 +711,7 @@ section#bottom {
 /* --- comment form ---- */
 
 .contactForm {
-  margin-top: 0px;
+  margin-top: 20px;
 }
 
 .contactForm input[type="text"] {
@@ -731,7 +731,7 @@ section#bottom {
 .contactForm textarea {
   width: 100%;
   padding-left: 20px;
-  padding-top: 10px;
+  padding-top: 0px;
   font-size: 13px;
   padding-right: 20px;
   -webkit-box-sizing: border-box;
