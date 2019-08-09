@@ -1978,7 +1978,11 @@ table {
 }
 
 .table {
-  width: 100%;
+  width: 50%;
+  margin-left: 200px;
+  width: 500px;
+  margin-top: 30px;
+  font-family: 'Kosugi', sans-serif;
   margin-bottom: 20px;
 }
 
@@ -1991,13 +1995,6 @@ table {
   border-top: 1px solid #dddddd;
 }
 
-.table th {
-  font-weight: bold;
-}
-
-.table thead th {
-  vertical-align: bottom;
-}
 
 .table caption + thead tr:first-child th,
 .table caption + thead tr:first-child td,
