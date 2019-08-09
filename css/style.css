@@ -865,6 +865,10 @@ p.copyright {
     width: 300px;
     margin: 0 auto;
   }
+  .photo img {
+    width: 100%;
+    display: block;
+  }
   .logo {
     float: none;
     text-align: center;
