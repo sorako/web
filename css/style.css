@@ -710,52 +710,7 @@ section#bottom {
 
 /* --- comment form ---- */
 
-.contactForm {
-  margin-top: 20px;
-}
 
-.contactForm input[type="text"] {
-  width: 100%;
-  min-height: 40px;
-  padding-left: 20px;
-  font-size: 13px;
-  padding-right: 20px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-border-radius: 2px 2px 2px 2px;
-  -moz-border-radius: 2px 2px 2px 2px;
-  border-radius: 2px 2px 2px 2px;
-}
-
-.contactForm textarea {
-  width: 100%;
-  padding-left: 20px;
-  padding-top: 0px;
-  font-size: 13px;
-  padding-right: 20px;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-border-radius: 2px 2px 2px 2px;
-  -moz-border-radius: 2px 2px 2px 2px;
-  border-radius: 2px 2px 2px 2px;
-}
-
-ul.contact-info {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-ul.contact-info li {
-  margin: 0 0 15px 0;
-  list-style: none;
-}
-
-ul.contact-info li label {
-  font-weight: 700;
-}
 
 /*============== 9. Footer ===================*/
 
