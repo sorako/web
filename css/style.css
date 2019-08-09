@@ -864,7 +864,7 @@ td.tds{
   }
 }
 */
-@media(max-width:480px) {
+/*@media(max-width:480px) {
   .main-content {
     height: 340px;
   }
@@ -913,3 +913,4 @@ td.tds{
     margin-bottom: 20px;
   }
 }
+*/
