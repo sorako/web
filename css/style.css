@@ -879,6 +879,9 @@ td.tds{
   .main-content {
     height: 340px;
   }
+  .table{
+    margin-left: 200px;
+  }
   .features {
     padding: 30px 0 0;
   }
