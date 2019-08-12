@@ -198,7 +198,9 @@ h6 {
   width: 32px;
   height: 20px;
 }
-btn
+.btn1:active{
+border-color: none;
+}
 .btn2{
   background: url(../img/language/mon.png) no-repeat left;
   width: 32px;
@@ -903,3 +905,6 @@ p.copyright {
     margin-bottom: 20px;
   }
 }
+.btn1:focus {outline:0;}
+.btn2:focus {outline:0;}
+.btn3:focus {outline:0;}
