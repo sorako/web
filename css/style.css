@@ -192,6 +192,22 @@ h6 {
   background: url(../img/icons/phone.png) no-repeat left;
   padding-left: 30px;
 }
+.btn1{
+  margin-right: 0px;
+  background: url(../img/language/japan.png) no-repeat left;
+  width: 32px;
+  height: 20px;
+}
+.btn2{
+  background: url(../img/language/mon.png) no-repeat left;
+  width: 32px;
+  height: 20px;
+}
+.btn3{
+  background: url(../img/language/en.png) no-repeat left;
+  width: 32px;
+  height: 20px;
+}
 
 /*============== 5. Intro section ===================*/
 

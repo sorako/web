@@ -22,29 +22,42 @@
             <div class="row-fluid">
               <!-- slider -->
               <div class="span12">
+                <div class="left" style=" position: fixed;z-index: 1000;">
+                   <button class="btn1" hreflang="jp" onclick="setLang('jp'); return false"></button>
+                   <button class="btn2" hreflang="mon" onclick="setLang('mon'); return false"></button>
+                   <button class="btn3" hreflang="eng" onclick="setLang('eng'); return false"></button>
+                </div>  
                 <div id="sequence-theme">
                   <div id="sequence">
                     <img class="prev" src="img/slides/bt-prev.png" alt="Previous Frame" />
                     <img class="next" src="img/slides/bt-next.png" alt="Next Frame" />
                     <ul>
                       <li class="animate-in">
-                        <h2 class="title">Fresh design</h2>
-                        <h5 class="subtitle">We always consider with latest web design trends</h5>
+                        <h2 class="title" >Barilga.mn</h2>
+                        <h5 class="subtitle" lang = "jp">モンゴルの建設ニュース第1号</h5>
+                        <h5 class="subtitle" lang = "mon">Mонголын барилгын салбарын №1 мэдээллийн хэрэгсэл Барилга.мн</h5>
+                        <h5 class="subtitle" lang = "eng">Building Construction No. 1 of Mongolia Construction News</h5>
                         <img class="model" src="img/slides/img1.png" alt="" />
                       </li>
-                      <li>
-                        <h2 class="title">Responsive layout</h2>
-                        <h5 class="subtitle">Degrade from wide screen to mobile screen size</h5>
+                      <li class="animate-in">
+                        <h2 class="title" >D2J Direct</h2>
+                        <h5 class="subtitle" lang = 'jp'>国際スピーチアプリ</h5>
+                        <h5 class="subtitle" lang = 'mon'>олон улсын ярианы апп</h5>
+                        <h5 class="subtitle" lang = 'eng'>international speech app</h5>
                         <img class="model" src="img/slides/img2.png" alt="" />
                       </li>
                       <li>
-                        <h2 class="title">Built with bootstrap</h2>
-                        <h5 class="subtitle">Supports modern browsers, touch devices and responsive designs</h5>
+                        <h2 class="title">DJ Tube</h2>
+                        <h5 class="subtitle" lang="jp">新しくて刺激的な何かを聞きたいですか？</h5>
+                        <h5 class="subtitle" lang="mon">Арай өөр, шинийг сонсмоор байна уу?</h5>
+                        <h5 class="subtitle" lang="eng">Do you want to hear something new and exciting?</h5>
                         <img class="model" src="img/slides/img3.png" alt="" />
                       </li>
                       <li>
-                        <h2 class="title">Built with bootstrap</h2>
-                        <h5 class="subtitle">Supports modern browsers, touch devices and responsive designs</h5>
+                        <h2 class="title">Papaz</h2>
+                        <h5 class="subtitle" lang="jp">あなたの日常生活の写真を撮り、他の人に何をすべきかを見せるために？</h5>
+                        <h5 class="subtitle" lang="mon">таны өдөр тутмын амьдралд зургийг аваад бусдад харуулмаар тохиолдол байдaг уу?</h5>
+                        <h5 class="subtitle" lang="eng">to take pictures of your everyday life and to show others what to do?</h5>
                         <img class="model" src="img/slides/img4.png" alt="" />
                       </li>
                     </ul>
@@ -65,8 +78,10 @@
     <div id="services" class="parallax section lb">
         <div class="container">
             <div class="section-title text-center">
-                <h3>Our Service</h3>
-                <p class="lead">Our Service unlimited solutions to all your business needs. in the installation package we prepare search engine optimization, social media support, we provide corporate identity and graphic design services.</p>
+                <h3 lang="eng">executed projects</h3>
+                <h3 lang="mon">гүйцэтгэсэн төслүүд</h3>
+                <h3 lang="jp">実行されたプロジェクト</h3>
+                <!-- <p class="lead">Our Service unlimited solutions to all your business needs. in the installation package we prepare search engine optimization, social media support, we provide corporate identity and graphic design services.</p> -->
             </div><!-- end title -->
 
             <div class="owl-services owl-carousel owl-theme">
@@ -262,27 +277,71 @@
         <div  class="wrapper">
           <table class="table" >
               <tr>
-                <th  style="border:none;"><span>社名</span></th>
-                <td  style="border-width: 0px;" > <span style="">株式会社 Sorako Japan</span></td>
+                <th class="lang" key="nameCom" style="border:none;">
+                  <span lang="jp">社名</span> 
+                  <span lang="mon">Компанийн нэр</span>
+                  <span lang="eng">Company name</span>
+                </th>
+                <td  style="border-width: 0px;" >
+                  <span lang="jp">株式会社 Sorako Japan</span>
+                  <span lang="mon">Сорако япон.ХХК</span>
+                  <span lang="eng">Sorako Japan.LLC</span>
+                </td>
               </tr>
               <tr>
-                <th>設立</th>
-                <td><span style="">2014年07月</span></td>
+                <th>
+                  <span lang="jp">設立</span>
+                  <span lang="mon">Байгууллага</span>
+                  <span lang="eng">Establishment</span>
+                </th>
+                <td>
+                  <span lang="jp">2014年07月</span>
+                  <span lang="mon">2014 оны 7-р сар</span>
+                  <span lang="eng">July 2014</span>
+                </td>
               </tr>
               <tr>
-                <th>資本金</th>
-                <td><span style="">500万</span></td>
+                <th>
+                  <span lang="jp">資本金</span>
+                  <span lang="mon">Хөрөнгө</span>
+                  <span lang="eng">Capital</span>
+                </th>
+                <td>
+                   <span lang="jp">500万</span>
+                   <span lang="mon">500 сая</span>
+                   <span lang="eng">500 million</span>
+                </td>
               </tr>
               <tr>
-                <th>所在地</th>
-                <td> <span style="">郵便番号 206-0022 東京都多摩市聖ヶ丘1-31-24 401 </span></td>
+                <th>
+                  <span lang="jp">所在地</span> 
+                  <span lang="mon">Байршил</span> 
+                  <span lang="eng">location</span> 
+                </th>
+                <td> 
+                   <span lang="jp">郵便番号 206-0022 東京都多摩市聖ヶ丘1-31-24 401 </span>
+                   <span lang="mon">Шуудангийн код 206-0022 Токио </span>
+                   <span lang="">Postal code 206-0022 Tokyo </span>
+                </td>
               </tr>
               <tr>
-                <th>事業内容</th>
+                <th>
+                    <span lang="jp">事業内容</span>
+                    <span lang="mon">Бизнесийн тодорхойлолт</span>
+                    <span lang="eng">Business description</span>
+                 </th>
                 <td>
                   <ul>
-                    <li><span style="">金融商品取引業</span></li>
-                    <li><span style="">インターネットによる情報サービス業</span></li>
+                    <li>
+                      <span lang="jp">金融商品取引業</span>
+                      <span lang="mon">Санхүүгийн хэрэгслийн бизнес</span>
+                      <span lang="eng">Financial instruments business</span>
+                    </li>
+                    <li>
+                      <span lang="jp">インターネットによる情報サービス業</span>
+                      <span lang="mon">Интернэт мэдээллийн үйлчилгээний салбар</span>
+                      <span lang="eng">Internet information service industry</span>
+                    </li>
                   </ul>
                 </td>
               </tr>
@@ -296,8 +355,51 @@
       </div>
     </section>
   </footer>
+
   <a href="#" id="scroll-to-top" class="dmtop global-radius"><img class="model" src="img/backtop.png" alt="" /><i class="fa fa-angle-up"></i></a>
+  
   <script src="js/all.js"></script>
+  <script type="text/javascript">
+    let langs = ['jp', 'mon', 'eng'];
+let lang = 'jp';
+setLangStyles(lang);
+
+function setStyles(styles) {
+  var elementId = '__lang_styles';
+  var element = document.getElementById(elementId);
+  if (element) {
+    element.remove();
+  }
+
+  let style = document.createElement('style');
+  style.id = elementId;
+  style.type = 'text/css';
+
+  if (style.styleSheet) {
+    style.styleSheet.cssText = styles;
+  } else {
+    style.appendChild(document.createTextNode(styles));
+  }
+  document.getElementsByTagName('head')[0].appendChild(style);
+}
+
+function setLang(lang) {
+  setLangStyles(lang);
+}
+
+function setLangStyles(lang) {
+  let styles = langs
+    .filter(function (l) {
+      return l != lang;
+    })
+    .map(function (l) {
+      return ':lang('+ l +') { display: none; }';
+    })
+    .join(' ');
+
+  setStyles(styles);
+}
+  </script>
   <script type='text/javascript' src="js/custom.js"></script>
   <script type='text/javascript' src="js/jquery.min.js"></script>
   <script type='text/javascript' src="js/bootstrap.js"></script>
