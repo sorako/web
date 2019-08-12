@@ -13,6 +13,18 @@
   <link rel="stylesheet" href="css/sequence.css" />
   <link rel="stylesheet" href="css/style.css" />
   <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+  <style type="text/css">
+    .container {
+      position: relative;
+    }
+
+    .topright {
+      position: absolute;
+      top: 8px;
+      right: 16px;
+      font-size: 18px;
+    }
+  </style>
 </head>
 <body>
     <div class="main-wrap">
@@ -22,7 +34,7 @@
             <div class="row-fluid">
               <!-- slider -->
               <div class="span12">
-                <div class="left" style=" position: fixed;z-index: 101;">
+                <div class="topright" style=" position: fixed;z-index: 101;">
                    <button class="btn1" hreflang="jp" onclick="setLang('jp'); return false"></button>
                    <button class="btn2" hreflang="mon" onclick="setLang('mon'); return false"></button>
                    <button class="btn3" hreflang="eng" onclick="setLang('eng'); return false"></button>
