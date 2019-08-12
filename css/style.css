@@ -358,9 +358,6 @@ ul.portfolio_list {
   overflow: hidden;
 }
 
-.left{
-  margin: left;
-}
 .da-thumbs li article {
   position: absolute;
   background-image: url(../img/hover/image_hover.png);

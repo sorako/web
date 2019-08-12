@@ -19,10 +19,11 @@
     }
 
     .topright {
-      position: absolute;
+      position: fixed;
       top: 8px;
       right: 16px;
       font-size: 18px;
+      z-index: 1000;
     }
   </style>
 </head>
@@ -34,7 +35,7 @@
             <div class="row-fluid">
               <!-- slider -->
               <div class="span12">
-                <div class="topright" style=" position: fixed;z-index: 101;">
+                <div class="topright">
                    <button class="btn1" hreflang="jp" onclick="setLang('jp'); return false"></button>
                    <button class="btn2" hreflang="mon" onclick="setLang('mon'); return false"></button>
                    <button class="btn3" hreflang="eng" onclick="setLang('eng'); return false"></button>
