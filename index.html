@@ -761,44 +761,44 @@
   <script src="js/all.js"></script>
   <script type="text/javascript">
     let langs = ['jp', 'mon', 'eng'];
-let lang = 'jp';
-setLangStyles(lang);
+    let lang = 'jp';
+    setLangStyles(lang);
 
-function setStyles(styles) {
-  var elementId = '__lang_styles';
-  var element = document.getElementById(elementId);
-  if (element) {
-    element.remove();
-  }
+    function setStyles(styles) {
+      var elementId = '__lang_styles';
+      var element = document.getElementById(elementId);
+      if (element) {
+        element.remove();
+      }
 
-  let style = document.createElement('style');
-  style.id = elementId;
-  style.type = 'text/css';
+      let style = document.createElement('style');
+      style.id = elementId;
+      style.type = 'text/css';
 
-  if (style.styleSheet) {
-    style.styleSheet.cssText = styles;
-  } else {
-    style.appendChild(document.createTextNode(styles));
-  }
-  document.getElementsByTagName('head')[0].appendChild(style);
-}
+      if (style.styleSheet) {
+        style.styleSheet.cssText = styles;
+      } else {
+        style.appendChild(document.createTextNode(styles));
+      }
+      document.getElementsByTagName('head')[0].appendChild(style);
+    }
 
-function setLang(lang) {
-  setLangStyles(lang);
-}
+    function setLang(lang) {
+      setLangStyles(lang);
+    }
 
-function setLangStyles(lang) {
-  let styles = langs
-    .filter(function (l) {
-      return l != lang;
-    })
-    .map(function (l) {
-      return ':lang('+ l +') { display: none; }';
-    })
-    .join(' ');
+    function setLangStyles(lang) {
+      let styles = langs
+        .filter(function (l) {
+          return l != lang;
+        })
+        .map(function (l) {
+          return ':lang('+ l +') { display: none; }';
+        })
+        .join(' ');
 
-  setStyles(styles);
-}
+      setStyles(styles);
+    }
   </script>
   <script type='text/javascript' src="js/custom.js"></script>
   <script type='text/javascript' src="js/jquery.min.js"></script>
