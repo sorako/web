@@ -1,0 +1,525 @@
+- title: Barilga.mn
+  imageUrl: assets/uploads/Barilga.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: iPhone,iPad
+  PlatformMonTit: iPhone,iPad
+  PlatformJpTit: iPhone,iPad
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang: Objective C,Web service (API)
+  technologyMonLang: Objective C,Web service (API)
+  technologyJpLang: Objective C,Web service (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: モンゴルの建設部門No.1の建設建設業のスマートフォン版は、あなたに最も速い建設情報を提供します：雑誌\ 's house magazine \' s 100ベストセラーインテリアデザイン標準ルールの建設。
+  ExplanationEngIn: he construction of the Mongolian construction sector No.1 The Smartphone version of Construction Industry will provide you with the quickest construction information for you the construction of the magazine \ 's house magazine \' s 100 bestsellers interior design standard rules.
+  ExplanationMonIn:  Mонголын барилгын салбарын №1 мэдээллийн хэрэгсэл Барилга.мн сэтгүүлийн ухаалаг утасны хувилбар нь та бүхэнд барилгын салбарын мэдээллийг шуурхай хүргэх болно. Үүнд Барилга.мн сэтгүүл, амины орон сууц, шилдэг 100 загвар интерьер дизайн норм дүрэм стандарт ном тохимол.
+
+- title: D2J Direct
+  imageUrl: assets/uploads/D2J.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: android Phone
+  PlatformMonTit: андройд утас
+  PlatformJpTit: アンドロイド 携帯電話 
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang: Java C,Web service (API)
+  technologyMonLang: Java C,Web service (API)
+  technologyJpLang: Java C,Web service (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: 国際電話を必要とするさまざまな番号をかけることなく電話をかけることができるアプリ。
+  ExplanationEngIn: an app that allows you to make calls without incurring a variety of numbers that require international calls.
+  ExplanationMonIn: Oлон улсын яриа хийхэд шаардагддаг олон төрлийн дугааруудыг оруулахгүйгээр дуудлага хийх боломжийг олгодог апп.
+
+- title: DJ Tube
+  imageUrl: assets/uploads/DJ_tube.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: iPhone, android Phone
+  PlatformMonTit: iPhone, андройд утас
+  PlatformJpTit: iPhone, アンドロイド 携帯電話 
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang: Objective C,Web servise (API)
+  technologyMonLang: Objective C,Web service (API)
+  technologyJpLang: Objective C,Web servise (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: 定期的に聞く音楽に飽きていますか？新しい音楽を聞きたいですか？その場合は、DJTUBEを選択してください。世界をリードするDJのMIX。
+  ExplanationEngIn: Are you bored of music that you hear regularly? Do you want to hear a new one? If so, choose DJTUBE and we bring you from the world's leading DJ's MIX.
+  ExplanationMonIn:  Та байнга сонсдог дуу хөгжмөөсөө уйдаж байна уу？ Арай өөр шинийг сонсмоор байна уу？ Хэрэв тийм бол DJTUBE-г сонгоорой. Бид танд дэлхийн шилдэг DJ нарын MIX-ээс хүргэж байна.
+
+- title: EZ Call
+  imageUrl: assets/uploads/EZcall.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: Android Phone
+  PlatformMonTit: Aндройд утас
+  PlatformJpTit: アンドロイド 携帯電話 
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang: Java,Web servise (API)
+  technologyMonLang: Java,Web servise (API)
+  technologyJpLang: Java,Web servise (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: 国際電話を必要とするさまざまな番号をかけることなく電話をかけることができるアプリ。
+  ExplanationEngIn: an app that allows you to make calls without incurring a variety of numbers that require international calls.
+  ExplanationMonIn: Oлон улсын яриа хийхэд шаардагддаг олон төрлийн дугааруудыг оруулахгүйгээр дуудлага хийх боломжийг олгодог апп.
+
+- title: Flip Friday
+  imageUrl: assets/uploads/Flip.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: iPhone,Android Phone
+  PlatformMonTit: iPhone,Aндройд утас
+  PlatformJpTit: iPhone,アンドロイド 携帯電話 
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang: Objective C,Web servise (API)
+  technologyMonLang: Objective C,Web servise (API)
+  technologyJpLang: Objective C,Web servise (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: 日本で人気のあるオンラインショッピングサイトのスマートバージョンを正常に完了しました。
+  ExplanationEngIn: Successfully completed the smart version of the popular online shopping site in Japan.
+  ExplanationMonIn: Японд алдартай онлайн худалдааны сайтын ухаалаг хувилбарыг амжилттай хийж гүйцэтгэн хүлээлгэн өглөө .
+
+- title: Mixx Pizza
+  imageUrl: assets/uploads/Mixx.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: Android Phone
+  PlatformMonTit: Aндройд утас
+  PlatformJpTit: アンドロイド 携帯電話 
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang:  Java ,Web servise (API)
+  technologyMonLang:  Java ,Web servise (API)
+  technologyJpLang:  Java ,Web servise (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: 質の高い健康食品、10種類のおいしいピザ、Mixxピザと鶏肉のセット、MIX CHICKEN、MIXX豚肉、リアルタイムの天然産物が生産する鶏肉の鶏串、ウランバートルとダークハンの24時間注文。 目的の住所で注文配送サービスを提供します
+  ExplanationEngIn: quality and healthy food, 10 kinds of tasty pizza, Mixx pizza and chicken meat set, MIX CHICKEN, MIXX pork, chicken chicken skewers produced by real-time natural products, and 24-hour orders for Ulaanbaatar and Darkhan. and provide order delivery service at the desired address.
+  ExplanationMonIn: Чанартай эрүүл хүнсийг эрхэмлэдэг хүн бүхэнд зориулан жинхэнэ байгалийн гаралтай бүтээгдэхүүнээр үйлдвэрлэсэн 10 төрлийн амтат пицца ,  Mixx пицца болон тахианы махан сет, MIX CHICKEN, MIXX гахайн  шарсан мах, тахианы махан шорлог зэрэг бүтээгдхүүнүүдээр Улаанбаатар болон Дархан хотуудад үйл ажиллагаагаа явуулж байгаа бөгөөд 24 цагийн турш захиалга авч таны хүссэн хаягаар хүргэлтийн үйлчилгээ үзүүлж байна.
+
+
+- title: MONOS
+  imageUrl: assets/uploads/Monos.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: iPhone, iPad, Android Phone, Adroid tablet
+  PlatformMonTit: iPhone, iPad, Android Phone, Adroid tablet
+  PlatformJpTit: iPhone, iPad, アンドロイド 携帯電話, アンドロイドtablet 
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang:  Objective C, Java,Web servise (API)
+  technologyMonLang:  Objective C, Java,Web servise (API)
+  technologyJpLang:  Objective C, Java,Web servise (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: このスマートフォンアプリケーションを使用すると、無料の医薬品とヘルスケア製品をオンラインで注文し、24時間無料で注文できます。また、プロの医薬品とサービスに関するヒントやアドバイスを定期的に入手できます。
+  ExplanationEngIn: With this smartphone application, you can order free medicines and healthcare products online and order them free of charge 24 hours free of charge, as well as regular availability of tips and advice on professional medicines and services.
+  ExplanationMonIn: Та энэхүү аппликэйшний тусламжтайгаар өөрийн авахыг хүссэн эм, эрүүл мэндийн бүтээгдэхүүнийг онлайнаар хүссэн газраасаа захиалан 24 цагийн  турш үнэ төлбөргүй хүргүүлэн авах боломжтой түүнчлэн өөрт хэрэгтэй эм, эрүүл мэндийн бүтээгдэхүүн үйлчилгээний талаар мэргэжлийн эмч нарын бэлтгэсэн зөвлөгөө зөвлөмжүүдийг тогтмол авах боломжтой болно.
+
+- title: Niislel Guide
+  imageUrl: assets/uploads/Niislel_Guide.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: iPhone, iPad, Android Phone, Adroid tablet
+  PlatformMonTit: iPhone, iPad, Android Phone, Adroid tablet
+  PlatformJpTit: iPhone, iPad, アンドロイド 携帯電話, アンドロイドtablet 
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang:  Objective C, Java,Web servise (API)
+  technologyMonLang:  Objective C, Java,Web servise (API)
+  technologyJpLang:  Objective C, Java,Web servise (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: 私たちは首都で生まれ育ちましたが、首都のどこで何が起こっているのか、首都で何が起こっているのかさえ知りません。そして、あなたの仕事の周りに開かれたコーヒーショップ、どんな素晴らしいサービス、そして文化の世界、 継続的な検索の結果、新しいブランドに関する新しい情報が更新されています。
+  ExplanationEngIn: although we are born and raised in the capital, we do not even know where it is over and over and over now and what's happening in the capital. And what coffee shops opened around your work, what amazing services are coming up, and the world of culture, New information about new brands is being updated as a result of ongoing search. The Capital City Guide is working to keep up-to-date with your knowledge.
+  ExplanationMonIn: Хэдийгээр бид нийслэл хотдоо төрж,өсч,амьдарч  байгаа ч өнөөгийн хөгжлийн өндөр хурдыг гүйцэж, хаана, юу шинээр буй болж байгааг тэр бүр мэдэж чаддаггүй.Тэгвэл таны ажлын ойролцоо ямар coffee shops нээгдсэнийг, ямар гайхалтай үйлчилгээнүүд бий болж буйг, бас соёл урлагийн ертөнц, шинэ брэндүүдийн талаарх цоо шинэ мэдээлэлүүдийг байнгын эрэл хайгуулын үр дүнд олж мэдэж мэдээлж байдаг Нийслэл guide сэтгүүл та бүхний мэдлэгт үргэлж "update" хийхийн төлөө ажиллаж байна.
+
+- title: Papaz
+  imageUrl: assets/uploads/Papaz.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: iPhone, iPad, iPod Touch
+  PlatformMonTit: iPhone, iPad, iPod Touch
+  PlatformJpTit: iPhone, iPad, iPod Touch
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang:  Objective C,Web servise (API)
+  technologyMonLang:  Objective C,Web servise (API)
+  technologyJpLang:  Objective C,Web servise (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: 日常生活で写真を見せて、感謝や失望の何かを見せたいですか？そして、これらの写真を一般に見せたいですか？パパスはそれをすべてやりました。それを見せたいが、そうすることができなかった瞬間を共有します。 Mariz Papazに参加して、私たちは一緒に社会を変えることができます。
+  ExplanationEngIn: Do you want to show the pictures in your daily life to show them something to be appreciated or disappointed? And do you want to show these pictures to the public? Papaz did it all. Want to show them, but share the moments that have not been able to do so. Share and share your thoughts. Join Mariz Papaz, we can change our society together.
+  ExplanationMonIn: Таны өдөр тутмын амьдралд зургийг нь аваад бусдад харуулчихмаар магтаж сайшаамаар эсвэл учир дутагдалтай зүйлс тохиолддог уу?Мөн тэдгээр зургуудаа олон нийтэд харуулахыг хүсдэг үү Papaz энэ бүгдийг шийдэрлэж чадлаа.Бусдад харуулахыг хүсч байсан боловч чадалгүй өнгөрч байсан мөчүүдээ яг одооноос хуваалцаж эхэл.Бусдын тэр мөчүүдийг ч гэсэн хамт хуваалцаж санал бодлоо солилц.Алив Papaz-д нэгдэцгээе, бид хамтдаа нийгмээ өөрчилж чадна.
+
+- title: Mongolian National University of Medical Science (MNUMS)
+  imageUrl: assets/uploads/service_01.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: web
+  PlatformMonTit: web
+  PlatformJpTit: web
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang:  PHP,html,css,javascript
+  technologyMonLang:  PHP,html,css,javascript
+  technologyJpLang:  PHP,html,css,javascript
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL
+  DatabaseMonUsed: MySQL
+  DatabaseJpUsed: MySQL
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: 国立医科大学の教授、教師、スタッフ、学生、このウェブサイトへの入学を希望する学生。
+  ExplanationEngIn: the National University of Medical Sciences professors, teachers, staff, students and students, who want to be admitted to this website.
+  ExplanationMonIn: Анагаахын шинжлэх ухааны үндэсний их сургуулийн эрдэмтэн профессорууд, багш нар, албан хаагчид болон суралцагчид, энэ цахим хуудсанд элсэж орох хүсэлтэй сурагчид.
+
+- title: Smart Slot
+  imageUrl: assets/uploads/Slot.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: Android Phone
+  PlatformMonTit: Android Phone
+  PlatformJpTit: アンドロイド 携帯電話
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang:  Java,Web servise (API)
+  technologyMonLang:  Java,Web servise (API)
+  technologyJpLang:  Java,Web servise (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: 日本で、日本の携帯電話会社「AU」の広告用の最初のモバイルアプリであり、Google Paly Storyで初めてナンバーワンを獲得しました。
+  ExplanationEngIn: Japan's app for mobile advertising for "AU"s Japanese mobile operator. Japan led the top of the list with Google Paly Story.
+  ExplanationMonIn: Японы үүрэн телефон операторын "AU" компаний сурталчилгаанд зориулсан тоглоомын апп.Гарсан дариудаа Japn Google Paly Story-д эхний топ-д таталтын тоогоороо тэргүүлсэн.
+
+- title: Mongolian Fairy Tale
+  imageUrl: assets/uploads/Tale.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: iPhone, iPad
+  PlatformMonTit: iPhone, iPad
+  PlatformJpTit: iPhone, iPad
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang:  Objective C,Web servise (API)
+  technologyMonLang:  Objective C,Web servise (API)
+  technologyJpLang:  Objective C,Web servise (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: 姉妹兄弟のソルポは、モンゴルのおとぎ話から、最愛の小さなお子さんとすべての若い兄弟のためにアプリを収集しています。
+  ExplanationEngIn: Sister brothers Sorako.llc collect app from the Mongolian fairy tales for their beloved little ones and for all the younger siblings. Nowadays, all the fairy tales can be read from one end to the next and it is possible to use your iphone and ipad devices. Read your beloved children, your beloved brothers and sisters.
+  ExplanationMonIn: Соракогийн ах эгч нар нь энхрий бяцхан хүүхдүүд, эгэлгүй хөөрхөн дүү нартаа зориулан Монголын үлгэрүүдээс дээжлэн авч  апп-ыг бүтээлээ.Одоо бүх үлгэрүүдийг нэг доороос унших боломжтой болсон төдийгүй iphone болон ipad төхөөрөмжүүдээ ашиглах боломжтой.Хайртай хүүхдүүддээ, хөөрхөн дүү нартаа заавал уншиж өгөөрэй.
+
+- title: Video Sticker
+  imageUrl: assets/uploads/Video_Sticker.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: iPhone, Android Phone
+  PlatformMonTit: iPhone, Android Phone
+  PlatformJpTit: iPhone,アンドロイド 携帯電話
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang:  Objective C,Web servise (API)
+  technologyMonLang:  Objective C,Web servise (API)
+  technologyJpLang:  Objective C,Web servise (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: Videostickerの短いビデオ画像にアプリを送信します。 日本は何千人ものユーザーから良い評価を受けています。
+  ExplanationEngIn: Send app to a short video image of Videosticker. Japan receives good ratings from thousands of users.
+  ExplanationMonIn: Videosticker  буюу найз нөхөд дотны хүндээ мэндчилгээний үгээ богино хэмжээний видео дүрсэд оруул илгээх апп. Японы олон мянган хэрэглэгчээс сайн үнэлгээ авч байгаа.
+
+- title: Wine IT
+  imageUrl: assets/uploads/Wine.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: iPhone
+  PlatformMonTit: iPhone
+  PlatformJpTit: iPhone
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang:  Objective C,Web servise (API)
+  technologyMonLang:  Objective C,Web servise (API)
+  technologyJpLang:  Objective C,Web servise (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: SNSネットワークでこのアプリを使用して、お気に入りのワインについての考えや考えを共有してください。
+  ExplanationEngIn: Use this app on the SNS network to share your thoughts and thoughts about your favorite wines.
+  ExplanationMonIn: Энэхүү апликейшнийг ашиглан SNS сүлжээгээр та өөрийн дуртай виноны талаар мэдэлэл, санал бодлоо бусадтай хуваалцаарай.
+
+- title: Wiwai Camera
+  imageUrl: assets/uploads/Wine.jpg
+  # platform
+  PlatformEng:  Platform 
+  PlatformMon:  ПлатФорм 
+  PlatformJp: Platform 
+  # device
+  PlatformEngTit: iPhone
+  PlatformMonTit: iPhone
+  PlatformJpTit: iPhone
+  # technology
+  technologyEng: echnology developed
+  technologyMon: хөгжүүлсэн технологи
+  technologyJp: 開発技術
+  # language
+  technologyEngLang:  Objective C,Web servise (API)
+  technologyMonLang:  Objective C,Web servise (API)
+  technologyJpLang:  Objective C,Web servise (API)
+  # Database
+  DatabaseEng: Database
+  DatabaseMon: өгөгдлийн сан
+  DatabaseJp: データベース
+  # used databases
+  DatabaseEngUsed: MySQL server, SQLite
+  DatabaseMonUsed: MySQL server, SQLite
+  DatabaseJpUsed: MySQL server, SQLite
+  # Explanation
+  ExplanationEng: Explanation
+  ExplanationMon: Тайлбар
+  ExplanationJp: 説明 
+  # Explanation in
+  ExplanationJpIn: このアプリは、結婚式の結婚式の写真を収集し、訪問者が訪れる興味深い写真の写真を含むアルバムを作成することで写真を作成します。
+  ExplanationEngIn: The app creates a photo by collecting a wedding photo for the wedding and creating an album with photos of interesting photos that come with visitors.
+  ExplanationMonIn: Хуримын үйл ажилгаанд хуримын албом зураг цуглуулах, ирсэн зочдоор сонирхолтой оцгой эгшинг авсан зургуудаар альбом үүсгэдэг апп.
