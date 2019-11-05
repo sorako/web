@@ -1,0 +1,141 @@
+<footer>
+    <section id="bottom">
+      <div class="bottom-cta">
+        <h2 class="subtitle sc-over">
+          	<div lang="jp">会社情報</div>
+          	<div lang="mon">Компани</div>
+          	<div lang="eng">Company</div>
+        </h2>
+        <div  class="wrapper">
+          <table class="table" >
+              <tr>
+                <th class="lang" key="nameCom" style="border:none;">
+                  <span lang="jp">社名</span> 
+                  <span lang="mon">Компанийн нэр</span>
+                  <span lang="eng">Company name</span>
+                </th>
+                <td  style="border-width: 0px;" >
+                  <span lang="jp">株式会社 Khabuko</span>
+                  <span lang="mon">Хабүко.ХХК</span>
+                  <span lang="eng">Khabuko.LLC</span>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  <span lang="jp">設立</span>
+                  <span lang="mon">Байгууллага</span>
+                  <span lang="eng">Establishment</span>
+                </th>
+                <td>
+                  <span lang="jp">2014年07月</span>
+                  <span lang="mon">2014 оны 7-р сар</span>
+                  <span lang="eng">July 2014</span>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  <span lang="jp">資本金</span>
+                  <span lang="mon">Хөрөнгө</span>
+                  <span lang="eng">Capital</span>
+                </th>
+                <td>
+                   <span lang="jp">500万円</span>
+                   <span lang="mon">5 сая иен</span>
+                   <span lang="eng">500 million yen</span>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                  <span lang="jp">所在地</span> 
+                  <span lang="mon">Байршил</span> 
+                  <span lang="eng">location</span> 
+                </th>
+                <td> 
+                   <span lang="jp">郵便番号 206-0022 東京都多摩市聖ヶ丘1-31-24 401 </span>
+                   <span lang="mon">Монгол улс, Улаанбаатар хот, Сүхбаатар дүүрэг, 1-р хороо, Энхтайваны өргөн чөлөө - 15A/5 Амбассадор оффис 403 тоот </span>
+                   <span lang="eng">Sukhbaatar district, 1st khoroo, Peace Avenue - 15A / 5 Ambassador office 403, Ulaanbaatar, Mongolia</span>
+                </td>
+              </tr>
+              <tr>
+                <th>
+                    <span lang="jp">事業内容</span>
+                    <span lang="mon">Бизнесийн тодорхойлолт</span>
+                    <span lang="eng">Business description</span>
+                 </th>
+                <td>
+                  <ul>
+                    <li>
+                      <span lang="jp">金融商品取引業</span>
+                      <span lang="mon">Санхүүгийн хэрэгслийн бизнес</span>
+                      <span lang="eng">Financial instruments business</span>
+                    </li>
+                    <li>
+                      <span lang="jp">インターネットによる情報サービス業</span>
+                      <span lang="mon">Интернэт мэдээллийн үйлчилгээний салбар</span>
+                      <span lang="eng">Internet information service industry</span>
+                    </li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <th class="ths"></th>
+                <td class="tds">
+                </td>
+              </tr>
+          </table>
+        </div>
+      </div>
+    </section>
+  </footer>
+<!--   <img class="model" src="img/backtop.png" alt="" /> -->
+  <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-arrow-circle-o-up"></i></a>
+  
+  <script src="assets/js/all.js"></script>
+  <script type="text/javascript">
+    let langs = ['jp', 'mon', 'eng'];
+    let lang = 'jp';
+    setLangStyles(lang);
+
+    function setStyles(styles) {
+      var elementId = '__lang_styles';
+      var element = document.getElementById(elementId);
+      if (element) {
+        element.remove();
+      }
+
+      let style = document.createElement('style');
+      style.id = elementId;
+      style.type = 'text/css';
+
+      if (style.styleSheet) {
+        style.styleSheet.cssText = styles;
+      } else {
+        style.appendChild(document.createTextNode(styles));
+      }
+      document.getElementsByTagName('head')[0].appendChild(style);
+    }
+
+    function setLang(lang) {
+      setLangStyles(lang);
+    }
+
+    function setLangStyles(lang) {
+      let styles = langs
+        .filter(function (l) {
+          return l != lang;
+        })
+        .map(function (l) {
+          return ':lang('+ l +') { display: none; }';
+        })
+        .join(' ');
+
+      setStyles(styles);
+    }
+  </script>
+  <script type='text/javascript' src="assets/js/custom.js"></script>
+  <script type='text/javascript' src="assets/js/jquery.min.js"></script>
+  <script type='text/javascript' src="assets/js/bootstrap.js"></script>
+  <script type='text/javascript' src="assets/js/jquery.prettyPhoto.js"></script>
+  <script type='text/javascript' src="assets/js/sequence.jquery.js"></script>
+  <script type='text/javascript' src="assets/js/jquery-hover-effect.js"></script> 
+  
