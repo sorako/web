@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  {% include head.html %}
+</head>
+<body>
+    {% include header.html %} 
+    <div id="services" class="parallax section lb">
+        <div class="container">
+            <div class="section-title text-center">
+                <h3 lang="eng">executed projects</h3>
+                <h3 lang="mon">гүйцэтгэсэн төслүүд</h3>
+                <h3 lang="jp">実行されたプロジェクト</h3>
+                <!-- <p class="lead">Our Service unlimited solutions to all your business needs. in the installation package we prepare search engine optimization, social media support, we provide corporate identity and graphic design services.</p> -->
+            </div><!-- end title -->
+            <div class="owl-services owl-carousel owl-theme">
+            {{ content}}
+            </div><!-- end row -->
+            <hr class="hr1">
+        </div><!-- end container -->
+    </div><!-- end section -->
+  {% include footer.html %}
+</body>
+</html>
+
