@@ -9,7 +9,7 @@ $(document).ready(function() {
     pauseOnHover: false,
     preloadTheseFrames: [1],
     preloadTheseImages: [
-      "assets/img/slides/thumb1.png",
+     
       "assets/img/slides/thumb2.png",
       "assets/img/slides/thumb3.png",
       "assets/img/slides/thumb4.png"
