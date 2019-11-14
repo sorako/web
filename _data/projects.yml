@@ -1,37 +1,37 @@
-- title: Barilga.mn
-  imageUrl: assets/uploads/Barilga.jpg
-  # platform
-  PlatformEng:  Platform 
-  PlatformMon:  ПлатФорм 
-  PlatformJp: Platform 
-  # device
-  PlatformEngTit: iPhone,iPad
-  PlatformMonTit: iPhone,iPad
-  PlatformJpTit: iPhone,iPad
-  # technology
-  technologyEng: echnology developed
-  technologyMon: хөгжүүлсэн технологи
-  technologyJp: 開発技術
-  # language
-  technologyEngLang: Objective C,Web service (API)
-  technologyMonLang: Objective C,Web service (API)
-  technologyJpLang: Objective C,Web service (API)
-  # Database
-  DatabaseEng: Database
-  DatabaseMon: өгөгдлийн сан
-  DatabaseJp: データベース
-  # used databases
-  DatabaseEngUsed: MySQL server, SQLite
-  DatabaseMonUsed: MySQL server, SQLite
-  DatabaseJpUsed: MySQL server, SQLite
-  # Explanation
-  ExplanationEng: Explanation
-  ExplanationMon: Тайлбар
-  ExplanationJp: 説明 
-  # Explanation in
-  ExplanationJpIn: モンゴルの建設部門No.1の建設建設業のスマートフォン版は、あなたに最も速い建設情報を提供します：雑誌\ 's house magazine \' s 100ベストセラーインテリアデザイン標準ルールの建設。
-  ExplanationEngIn: he construction of the Mongolian construction sector No.1 The Smartphone version of Construction Industry will provide you with the quickest construction information for you the construction of the magazine \ 's house magazine \' s 100 bestsellers interior design standard rules.
-  ExplanationMonIn:  Mонголын барилгын салбарын №1 мэдээллийн хэрэгсэл Барилга.мн сэтгүүлийн ухаалаг утасны хувилбар нь та бүхэнд барилгын салбарын мэдээллийг шуурхай хүргэх болно. Үүнд Барилга.мн сэтгүүл, амины орон сууц, шилдэг 100 загвар интерьер дизайн норм дүрэм стандарт ном тохимол.
+# - title: Barilga.mn
+#   imageUrl: assets/uploads/Barilga.jpg
+#   # platform
+#   PlatformEng:  Platform 
+#   PlatformMon:  ПлатФорм 
+#   PlatformJp: Platform 
+#   # device
+#   PlatformEngTit: iPhone,iPad
+#   PlatformMonTit: iPhone,iPad
+#   PlatformJpTit: iPhone,iPad
+#   # technology
+#   technologyEng: echnology developed
+#   technologyMon: хөгжүүлсэн технологи
+#   technologyJp: 開発技術
+#   # language
+#   technologyEngLang: Objective C,Web service (API)
+#   technologyMonLang: Objective C,Web service (API)
+#   technologyJpLang: Objective C,Web service (API)
+#   # Database
+#   DatabaseEng: Database
+#   DatabaseMon: өгөгдлийн сан
+#   DatabaseJp: データベース
+#   # used databases
+#   DatabaseEngUsed: MySQL server, SQLite
+#   DatabaseMonUsed: MySQL server, SQLite
+#   DatabaseJpUsed: MySQL server, SQLite
+#   # Explanation
+#   ExplanationEng: Explanation
+#   ExplanationMon: Тайлбар
+#   ExplanationJp: 説明 
+#   # Explanation in
+#   ExplanationJpIn: モンゴルの建設部門No.1の建設建設業のスマートフォン版は、あなたに最も速い建設情報を提供します：雑誌\ 's house magazine \' s 100ベストセラーインテリアデザイン標準ルールの建設。
+#   ExplanationEngIn: he construction of the Mongolian construction sector No.1 The Smartphone version of Construction Industry will provide you with the quickest construction information for you the construction of the magazine \ 's house magazine \' s 100 bestsellers interior design standard rules.
+#   ExplanationMonIn:  Mонголын барилгын салбарын №1 мэдээллийн хэрэгсэл Барилга.мн сэтгүүлийн ухаалаг утасны хувилбар нь та бүхэнд барилгын салбарын мэдээллийг шуурхай хүргэх болно. Үүнд Барилга.мн сэтгүүл, амины орон сууц, шилдэг 100 загвар интерьер дизайн норм дүрэм стандарт ном тохимол.
 
 - title: D2J Direct
   imageUrl: assets/uploads/D2J.jpg
