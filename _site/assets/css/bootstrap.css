@@ -2001,6 +2001,29 @@ table {
 
 }
 
+.tableth {
+  margin-top: 30px;
+  
+  margin-bottom: 20px;
+}
+
+.tableth th,
+.tableth td {
+  padding: 1px;
+  border-color: #2E586D;
+  font-size: 14px;
+  color: #BFBFBF;
+  line-height: 20px;
+  border-left: 1px solid #2E586D;
+}
+.tableth th{
+  width: 170px;
+  padding-right: 5px;
+  border-width: 1px;
+  border-color: lightgray;
+
+}
+
 
 .table caption + thead tr:first-child th,
 .table caption + thead tr:first-child td,
