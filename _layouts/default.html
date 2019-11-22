@@ -2,6 +2,15 @@
 <html>
 <head>
   {% include head.html %}
+  <style type="text/css">
+      img.dev{
+        width: 150px;
+        margin-right: 50px;
+      }
+    /*  .dev:hover{
+        width: 156px;
+      }*/
+  </style>
 </head>
 <body>
     {% include header.html %} 
@@ -11,12 +20,23 @@
                 <h3 lang="eng">executed projects</h3>
                 <h3 lang="mon">гүйцэтгэсэн төслүүд</h3>
                 <h3 lang="jp">実行されたプロジェクト</h3>
-                <!-- <p class="lead">Our Service unlimited solutions to all your business needs. in the installation package we prepare search engine optimization, social media support, we provide corporate identity and graphic design services.</p> -->
             </div><!-- end title -->
             <div class="owl-services owl-carousel owl-theme">
             {{ content}}
             </div><!-- end row -->
-            <hr class="hr1">
+           <div class=" text-center" >
+          <h3 lang="eng">Authorized distributor</h3>
+          <h3 lang="mon">Итгэмжлэгдсэн худалдааны төлөөлөгч</h3>
+          <h3 lang="jp">正規代理店</h3>
+          <table class="tableth">
+            {% for authorized in site.data.authorized %}  
+            <th {{ authorized.ink }} {{ authorized.thstyle }}>
+               <a href="{{ authorized.imagelink }}" {{authorized.styles}}> <img class="dev" src="{{ authorized.imageUrl }}" ></a>
+            </th>
+             {% endfor %}
+          </table>
+        </div><!-- end title -->
+        <hr class="hr1">
         </div><!-- end container -->
     </div><!-- end section -->
   {% include footer.html %}

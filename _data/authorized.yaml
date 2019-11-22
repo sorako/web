@@ -1,0 +1,33 @@
+#ascon
+- imageUrl: assets/authorized/ascon.png
+  imagelink: https://ascon.net
+  ink: style="border:none;"
+  thstyle: style="width:260px;"
+#ansys
+- imageUrl: assets/authorized/ansys.png
+  imagelink: https://www.ansys.com/
+  styles: style="padding-left:3px;"
+  thstyle: style="width:200px;"
+#Microsoft
+- imageUrl: assets/authorized/Microsoft.png
+  imagelink: https://www.microsoft.com/
+  thstyle: style="width:190px;"
+#kompas
+- imageUrl: assets/authorized/logo-2017m.png
+  imagelink: https://kompas.ru/ 
+  styles: style="padding-left:6px;"
+  thstyle: style="width:200px;"  
+#5mlc-cad
+- imageUrl: assets/authorized/mlc.png
+  imagelink: https://mlc-cad.com/
+  styles: style="padding-left:-10px;"
+#de247 https://www.digitalengineering247.com/ change cybernet
+- imageUrl: assets/authorized/cybernet.png
+  imagelink: https://www.cybernet.co.jp/ 
+  styles: style="padding-left;0px;"
+#7
+- imageUrl: assets/authorized/marketwatch.png
+  imagelink: https://www.marketwatch.com/press-release/global-engineering-software-cad-cam-cae-aec-eda-market-2019-key-vendors-trends-analysis-segmentation-forecast-to-2024-2019-05-31
+#8
+- imageUrl: assets/authorized/LASCOM.png
+  imagelink: https://www.lascom.com/challenges/design-and-system-management/         
